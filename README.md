@@ -1,7 +1,5 @@
 # Tugas-1-PBO-DapotMatthewTampubolon
 
-Dokumentasi ini mengikuti format lengkap seperti referensi, namun isi disesuaikan dengan implementasi program Dapot (alur **jadwal pengumpulan laporan praktikum**).
-
 # BAGIAN 1 — ANALISIS SISTEM
 
 ## 1. Identifikasi Class Utama
