@@ -1,0 +1,17 @@
+# Java build output
+bin/
+*.class
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local test artifacts
+interactive_test.txt
+test_input.txt
+test_output.log
+TEST_OUTPUT.txt
+VERIFY.sh
+STATUS.txt
+SUMMARY.txt
+*.id

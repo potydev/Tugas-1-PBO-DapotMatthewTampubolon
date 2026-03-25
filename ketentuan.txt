@@ -1,0 +1,99 @@
+TUGAS 1 
+PEMROGRAMAN BERORIENTASI OBJEK (PBO) 
+Studi Kasus Analisis dan Implementasi Sistem Berbasis Objek 
+Latar Belakang 
+Pada materi Bab 1–6 mahasiswa telah mempelajari konsep dasar Pemrograman Berorientasi  Objek (PBO), meliputi: 
+• Konsep paradigma pemrograman dan objek 
+• Class, object, dan method 
+• Dasar bahasa Java 
+• Struktur program (percabangan dan perulangan) 
+• Struktur data (Array dan ArrayList) 
+• Input dan Output dalam Java 
+Tugas ini bertujuan melatih kemampuan mahasiswa dalam menganalisis suatu sistem,  memodelkannya dalam bentuk class, serta mengimplementasikannya dalam program Java. 
+Ketentuan Umum 
+1. Tugas dikerjakan secara individu. 
+2. Mahasiswa tidak diperbolehkan menyalin program dari internet atau AI tanpa memahami  konsepnya. 
+3. Pada pertemuan setelah libur, dosen akan memilih mahasiswa secara acak untuk  mempresentasikan hasilnya. 
+4. Mahasiswa harus mampu menjelaskan desain program dan kode yang dibuat. 5. Pengumpulan dilakukan melalui platform e-learning yang digunakan pada kelas.
+BAGIAN 1 — ANALISIS SISTEM 
+Tema akan ditentukan oleh dosen, opsi sebagai berikut: 
+1. Sistem Peminjaman Ruang Diskusi Mahasiswa 
+2. Sistem Pengelolaan Jadwal Presentasi Kelompok 
+3. Sistem Pengumpulan Tugas Laporan Praktikum 
+4. Sistem Pendaftaran Magang Mahasiswa 
+5. Sistem Pengajuan Judul Tugas Akhir 
+Kemudian lakukan analisis sistem dengan menjawab pertanyaan berikut: 1. Identifikasi minimal 3 class utama yang terdapat pada sistem tersebut. 2. Tentukan atribut dari setiap class. 
+3. Tentukan method / perilaku dari setiap class. 
+4. Jelaskan hubungan antar class. 
+Gunakan format tabel berikut: 
+Class Atribut Method 
+Contoh: Mahasiswa nim, nama tampilkanData() 
+Mahasiswa harus menjelaskan alasan pemilihan atribut dan method tersebut.
+BAGIAN 2 — DESAIN CLASS DIAGRAM 
+Buat class diagram sederhana berdasarkan analisis sistem yang telah dibuat. Ketentuan: 
+• Minimal 3 class 
+• Menunjukkan hubungan antar class 
+• Boleh digambar menggunakan: 
+o Draw.io 
+o PowerPoint 
+o Lucidchart 
+o atau digambar manual 
+Contoh class diagram sederhana: 
+
+Disini mahasiswa boleh mengabaikan konsep Association dan Aggregation (tidak diajarkan pada  matakuliah ini). Namun harus terdapat setidaknya satu unsur Inheritance.
+BAGIAN 3 — IMPLEMENTASI PROGRAM JAVA 
+Buat program Java berdasarkan class diagram yang telah dibuat. Program minimal harus memiliki: 
+1. Minimal 3 class 
+2. Menggunakan method 
+3. Menggunakan percabangan (if / switch) 
+4. Menggunakan perulangan (looping) 
+5. Menggunakan input dari pengguna 
+6. Menggunakan Array atau ArrayList 
+7. Menampilkan output hasil program 
+Contoh fitur program: 
+• Menambahkan data 
+• Menampilkan data 
+• Melakukan transaksi sederhana 
+• Mengubah status data
+BAGIAN 4 — ANALISIS KONSEP PBO 
+Jawablah pertanyaan berikut: 
+1. Jelaskan dimana konsep class dan object diterapkan dalam program Anda. 2. Jelaskan bagaimana program Anda menerapkan enkapsulasi. 
+3. Mengapa pendekatan PBO lebih baik dibandingkan pendekatan prosedural pada sistem  yang Anda buat? 
+Jawaban ditulis secara singkat dan jelas.
+BAGIAN 5 — REFLEKSI 
+Tuliskan refleksi pribadi mengenai tugas ini: 
+1. Bagian yang paling sulit dalam mengerjakan tugas ini. 
+2. Hal baru yang Anda pelajari tentang konsep PBO. 
+3. Jika sistem ini dikembangkan lebih lanjut, fitur apa yang akan ditambahkan?
+FORMAT PENGUMPULAN 
+Mahasiswa mengumpulkan: 
+1. Laporan PDF (maksimal 5 halaman) dengan urutan sebagai berikut: 
+o Analisis sistem 
+o Class diagram 
+o Penjelasan konsep PBO 
+o Refleksi 
+2. Source code program Java (.java) 
+PRESENTASI DI KELAS 
+Pada pertemuan berikutnya setelah libur: 
+• Dosen akan memilih mahasiswa secara acak. 
+• Mahasiswa diminta menjelaskan: 
+1. Class yang dibuat 
+2. Hubungan antar class 
+3. Alur program 
+4. Cara kerja method 
+5. Menambahkan kode sesuai instruksi 
+Mahasiswa yang tidak dapat menjelaskan programnya dengan baik akan mendapatkan  pengurangan nilai. 
+RUBRIK PENILAIAN
+Komponen Penilaian 
+Bobot
+Analisis sistem 
+30%
+Desain class diagram 
+20%
+Implementasi program 
+30%
+Penjelasan konsep PBO 
+20%
+
+
+
